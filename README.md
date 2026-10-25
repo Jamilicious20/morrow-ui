@@ -17,7 +17,3 @@ Open `index.html` in a browser. The typefaces load from Google Fonts, so an inte
 - Responsive product card composition
 - Light/dark theme toggle using CSS custom properties
 - Skip link, visible focus states, reduced-motion support, and responsive navigation
-
-## Portfolio notes
-
-Before adding this project to a CV, personalize the tokens and copy, inspect it at mobile/tablet/desktop widths, and run an accessibility check with keyboard-only navigation and a screen reader. Record only results you actually measured.
